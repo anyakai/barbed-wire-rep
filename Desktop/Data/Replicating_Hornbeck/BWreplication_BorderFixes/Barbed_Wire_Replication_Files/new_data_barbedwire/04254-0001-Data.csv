@@ -1,0 +1,533 @@
+NAME,UNFIPS,GP,BAR_XH_B,BWT_XH_B,FLX_XH_P,FLX_XH_B,COT_XH_C,PAB_XH_B,FML_XX_A,IML_XX_A,UNL_XX_A,WOD_XX_A,UNL_XO_A,ARE_XX_A,FRM_XX_Q,PRP_XX_V,IMP_XX_V,AFP_XX_V,FRU_XX_V,GDN_XX_V,FST_XX_V,STK_XR_V,STK_XX_V
+ARAPAHOE,08005,1,9659,Result of merge,0,0,0,1985,20658,6738,13920,321,13599,3110727,124,387600,28240,268650,0,23535,0,3875,127150
+BENT,08011,1,0,Result of merge,0,0,0,0,8055,985,7070,0,7070,3737354,48,56090,3788,102332,0,0,0,0,195158
+BOULDER,08013,1,3609,Result of merge,0,0,0,100,42673,14365,28308,0,28308,471198,232,575650,36267,326313,0,0,0,11734,281125
+CLEAR CREEK,08019,1,0,Result of merge,0,0,0,0,0,0,0,0,0,266268,0,0,0,0,0,0,0,0,0
+CONEJOS,08021,0,0,Result of merge,0,0,0,619,23809,5218,18591,0,18591,4236113,189,125032,17780,96471,9,0,0,15383,230207
+COSTILLA,08023,0,30,Result of merge,0,0,0,339,21605,5583,16022,0,16022,1377165,157,90819,13747,69548,0,0,0,15243,148537
+DOUGLAS,08035,1,4436,Result of merge,0,0,0,16,15378,7899,7479,1067,6412,3279240,117,137780,20007,166591,0,0,0,13801,323903
+EL PASO,08041,1,1135,Result of merge,0,0,0,0,15499,4457,11042,545,10497,1699315,65,147380,11135,69795,0,0,0,9125,125935
+FREMONT,08043,1,0,Result of merge,0,0,0,10,7750,2632,5118,193,4925,1525912,44,79050,6215,48160,0,0,0,9730,71104
+GILPIN,08047,1,0,Result of merge,0,0,0,0,4560,1194,3366,1350,2016,92273,12,99200,3805,37975,0,2000,0,804,10150
+HUERFANO,08055,1,283,Result of merge,0,0,0,0,9636,2693,6943,0,6943,1029860,80,197385,4783,91422,0,0,0,0,173604
+JEFFERSON,08059,1,9060,Result of merge,0,0,0,599,22932,7166,15766,290,15476,502089,142,342675,27680,263725,0,28685,0,12605,147295
+LAKE,08065,0,450,Result of merge,0,0,0,150,4965,978,3987,695,3292,12269473,31,19375,5250,35495,0,500,0,4285,47673
+LARIMER,08069,1,3363,Result of merge,0,0,0,153,19184,5135,14049,0,14049,1668756,121,226970,17475,176649,0,300,0,4791,240430
+LAS ANIMAS,08071,1,0,Result of merge,0,0,0,0,4123,1130,2993,0,2993,4696989,80,24662,3040,39183,0,0,0,0,31801
+PARK,08093,1,1675,Result of merge,0,0,0,30,3390,623,2767,1455,1312,1428877,17,16740,3147,28906,0,0,0,4665,45025
+PUEBLO,08101,1,420,Result of merge,0,0,0,3353,63528,17087,46441,5588,40853,1552216,120,531140,39450,307165,0,0,0,129096,304642
+SAGUACHE,08109,0,50,Result of merge,0,0,0,146,9190,1996,7194,0,7194,1314533,54,49620,10710,60055,0,0,0,11447,116587
+SUMMIT,08117,0,0,Result of merge,0,0,0,0,0,0,0,0,0,12393099,Not available,0,0,0,0,0,0,0,0
+WELD,08123,1,971,Result of merge,0,0,0,0,23411,9715,13696,0,13696,6729398,105,278580,20085,146671,0,0,0,5810,250776
+,08127,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,3424448,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+ADAIR,19001,0,437,233,0,0,Not published for this unit,69,89812,35329,54483,8529,45954,364131,636,1527586,91677,221892,550,0,0,16968,366091
+ADAMS,19003,0,900,132,0,0,Not published for this unit,394,67091,27270,39821,10392,29429,265146,526,1385963,67977,358207,287,62,4461,51849,352304
+ALLAMAKEE,19005,0,25474,2495,0,82,Not published for this unit,549,257470,112149,145321,61107,84214,423737,1783,4301936,292612,1752249,5359,706,41590,354537,1005201
+APPANOOSE,19007,0,1109,1918,90,6229,Not published for this unit,1023,288070,135402,152668,63340,89328,323815,2121,5631209,251258,1672620,26029,215,83566,479469,1255375
+AUDUBON,19009,0,95,0,0,0,Not published for this unit,157,23400,9872,13528,4132,9396,286728,143,473407,26432,194558,55,2405,1825,36720,147366
+BENTON,19011,0,68103,2760,0,3013,Not published for this unit,187,325704,254856,70848,23558,47290,451192,2536,8716034,571842,2155748,12545,2490,3861,420464,1731218
+BLACK HAWK,19013,0,11310,3746,0,0,Not published for this unit,644,272459,223426,49033,19875,29158,362331,2119,8100998,546065,2180803,9958,3978,16710,250271,1434060
+BOONE,19015,0,7373,912,30,0,Not published for this unit,583,161259,113243,48016,22067,25949,368284,1277,3438031,207166,952896,3328,2173,14974,168169,883027
+BREMER,19017,0,15493,1815,0,79,Not published for this unit,908,191219,139519,51700,24899,26801,280712,1487,4486291,286772,1162744,1536,6555,110315,183712,878483
+BUCHANAN,19019,0,16385,1041,0,0,Not published for this unit,317,244622,177781,66841,33553,33288,371448,1762,6021232,396855,1597375,4622,10540,14903,242607,1161162
+BUENA VIST,19021,0,215,207,0,0,Not published for this unit,60,27172,5546,21626,799,20827,381082,222,272924,22638,92525,0,0,420,5315,91824
+BUTLER,19023,0,5423,1809,0,0,Not published for this unit,659,153248,90788,62460,12228,50232,371101,1053,3294701,227890,1061249,926,405,25009,158798,668304
+CALHOUN,19025,0,640,0,0,0,Not published for this unit,0,19137,6475,12662,765,11897,364368,167,215000,15980,62840,0,0,0,4115,66325
+CARROLL,19027,0,0,6,0,0,Not published for this unit,0,50520,13894,36626,2680,33946,366997,272,456044,17361,100400,0,0,0,13105,139829
+CASS,19029,0,532,30,0,0,Not published for this unit,27,37677,16141,21536,4442,17094,358997,174,820231,46866,261739,0,0,0,76318,259660
+CEDAR,19031,0,141182,2120,175,20916,Not published for this unit,21,290810,254219,36591,23706,12885,383272,2299,10473122,462535,2754614,13221,135,1969,718352,1988500
+CERRO GORD,19033,0,2944,309,0,0,Not published for this unit,312,67009,26724,40285,5872,34413,371701,484,1269175,76760,308679,0,700,0,30983,284471
+CHEROKEE,19035,0,0,133,0,0,Not published for this unit,60,36691,9739,26952,1377,25575,366061,304,401025,36450,182680,0,0,0,20139,143716
+CHICKASAW,19037,0,22762,3255,0,0,Not published for this unit,1112,166830,66925,99905,22125,77780,330368,1252,3542015,245274,1072554,912,1739,31597,178110,705017
+CLARKE,19039,0,1102,413,0,137,Not published for this unit,6,131310,63162,68148,24251,43897,273763,1047,2214809,143436,717255,10333,440,0,192129,667935
+CLAY,19041,0,15,46,0,0,Not published for this unit,357,27973,4993,22980,1368,21612,368070,207,173215,18002,77163,0,0,1084,4117,96469
+CLAYTON,19043,0,57254,3179,0,0,Not published for this unit,774,366451,196775,169676,117213,52463,513003,2387,9267968,492989,2949917,17291,1741,49450,602475,1786393
+CLINTON,19045,0,199072,2271,327,16170,Not published for this unit,633,396406,323182,73224,30710,42514,426571,3013,12964845,658944,3909589,14639,3370,2584,1075150,2530023
+CRAWFORD,19047,0,455,272,0,0,Not published for this unit,79,46953,20011,26942,5010,21932,443685,242,986740,49336,236555,0,290,2643,38089,205379
+DALLAS,19049,0,1805,245,20,405,Not published for this unit,659,147118,78858,68260,23855,44405,377378,1106,3579844,175038,953829,7881,150,6228,218347,849113
+DAVIS,19051,0,430,1397,20,421,Not published for this unit,2234,269165,145665,123500,99625,23875,314685,2039,5690432,271993,1622328,23482,0,0,459389,1354714
+DECATUR,19053,0,216,603,0,99,Not published for this unit,409,154997,65659,89338,45620,43718,317308,1065,2609576,136357,1352239,15056,655,969,248803,698018
+DELAWARE,19055,0,49515,3641,11,0,Not published for this unit,762,287409,222307,65102,44163,20939,365021,2149,8200888,399686,2452654,11557,1199,40203,510245,1611499
+DES MOINES,19057,0,7647,1005,4835,660,Not published for this unit,220,222809,147210,75599,65991,9608,264962,2006,8709607,272510,1758025,55831,9783,44230,545287,1447455
+DICKINSON,19059,0,1760,42,0,0,Not published for this unit,89,30851,5473,25378,1845,23533,253810,182,225950,25503,94740,0,0,0,4270,81470
+DUBUQUE,19061,0,75739,1549,0,0,Not published for this unit,625,317766,181049,136717,81185,55532,384000,2281,9141827,455110,2949075,17873,11410,60548,724245,1668855
+EMMET,19063,0,1899,36,0,0,Not published for this unit,334,35872,6526,29346,1976,27370,250735,229,395975,21713,99890,20,0,0,13286,109840
+FAYETTE,19065,0,29553,1753,0,186,Not published for this unit,374,221698,124647,97051,47875,49176,476003,1618,4599802,263912,1363841,1930,1205,0,294724,843586
+FLOYD,19067,0,8373,716,0,0,Not published for this unit,725,166009,79706,86303,20238,66065,331784,1231,3807985,243370,1609631,467,165,33159,118126,682668
+FRANKLIN,19069,0,3366,240,0,0,Not published for this unit,449,101584,51207,50377,7621,42756,375325,733,1906673,115052,521748,46,1817,4880,87482,399087
+FREMONT,19071,0,4475,392,0,0,Not published for this unit,300,164994,98343,66651,23368,43283,312979,1373,4769850,241680,2110845,6270,1650,0,346802,1198230
+GREENE,19073,0,3062,429,16,0,Not published for this unit,72,72161,33759,38402,10708,27694,365070,527,1285286,108952,394810,22,0,120,60527,305993
+GRUNDY,19075,0,13360,813,0,0,Not published for this unit,383,175698,108483,67215,2718,64497,323629,1167,3459275,279240,841088,50,0,0,76194,618543
+GUTHRIE,19077,0,1861,50,0,0,Not published for this unit,84,105658,46778,58880,15128,43752,385405,678,1872900,75005,424693,5696,0,0,113895,423005
+HAMILTON,19079,0,3279,809,0,0,Not published for this unit,82,83851,36946,46905,10376,36529,366718,708,1640590,79435,425025,625,700,5156,53831,364430
+HANCOCK,19081,0,430,90,0,0,Not published for this unit,89,19053,6024,13029,2173,10856,361338,143,286190,22855,68700,0,0,0,7101,70369
+HARDIN,19083,0,5510,136,62,75,Not published for this unit,26,177894,97890,80004,20530,59474,376166,1310,4757912,210624,998258,3486,515,7273,183065,898996
+HARRISON,19085,0,1285,482,20,0,Not published for this unit,147,156335,54150,102185,29930,72255,448425,931,3011350,182613,932698,200,50,61,194464,758476
+HENRY,19087,0,4194,1706,0,1503,Not published for this unit,69,250364,176285,74079,57191,16888,279287,2451,8243369,332309,2174772,29127,2473,21137,539921,1516670
+HOWARD,19089,0,13357,547,0,0,Not published for this unit,428,102573,44235,58338,13142,45196,301194,679,2109075,180444,615810,303,67,27,73767,445276
+HUMBOLDT,19091,0,1659,189,0,0,Not published for this unit,174,51206,14453,36753,2476,34277,290907,406,780093,47497,242424,200,40,0,23294,170568
+IDA,19093,0,35,76,0,0,Not published for this unit,8,8736,2011,6725,591,6134,272214,42,75460,7290,31383,0,0,0,2446,34807
+IOWA,19095,0,21741,3434,118,2179,Not published for this unit,366,232930,139753,93177,29081,64096,369095,1670,5422071,342393,1526481,9986,297,5555,427300,1222559
+JACKSON,19097,0,21518,7714,0,0,Not published for this unit,989,322536,176683,145853,80285,65568,400992,2283,8021360,449773,3017572,21589,28,8499,731207,1872904
+JASPER,19099,0,10823,2509,2735,135,Not published for this unit,707,308688,198411,110277,33146,77131,474938,2315,8870354,457808,2559058,19153,1303,8668,561327,1781682
+JEFFERSON,19101,0,2247,1041,0,0,Not published for this unit,74,245641,163276,82365,69429,12936,284588,2143,7611811,352349,1711007,35675,350,2120,286483,1418704
+JOHNSON,19103,0,21553,3656,674500,22475,Not published for this unit,695,318281,228919,89362,47925,41437,407873,2221,8496044,499824,2864412,53700,2823,9161,801016,1829265
+JONES,19105,0,15198,3263,0,1281,Not published for this unit,593,288436,213399,75037,48007,27030,371406,2082,7786975,330421,2214146,11325,728,270,636989,1430598
+KEOKUK,19107,0,10180,2436,25,1226,Not published for this unit,43,312338,176975,135363,42688,92675,382910,2739,8170684,512520,2287488,34488,906,5537,631687,1887444
+KOSSUTH,19109,0,2294,540,0,0,Not published for this unit,272,45506,12488,33018,2319,30699,624189,250,630580,48255,227639,0,35,0,20468,161965
+LEE,19111,0,28838,1100,0,0,Not published for this unit,421,260078,175662,84416,60596,23820,329102,2367,7750525,294883,1948977,56267,24218,22321,463910,1448287
+LINN,19113,0,18327,3009,1587,1183,Not published for this unit,1496,323956,227019,96937,64078,32859,464015,2783,10364525,598137,3371939,30360,17202,68065,837852,2220945
+LOUISA,19115,0,2674,1959,0,978,Not published for this unit,243,219049,144172,74877,48111,26766,257581,1605,6721425,253400,1855863,43646,3345,38213,694090,1467690
+LUCAS,19117,0,3220,1978,180,382,Not published for this unit,327,184706,107996,76710,27206,49504,275211,1327,3550464,182718,895109,11078,18374,2677,234188,862585
+LYON,19119,1,0,0,0,0,Not published for this unit,0,8328,604,7724,230,7494,365923,27,31080,4465,14460,0,0,0,0,8589
+MADISON,19121,0,1294,725,46,332,Not published for this unit,656,200202,126243,73959,23687,50272,349435,1504,3516431,257164,1644035,17140,964,5413,457258,1142054
+MAHASKA,19123,0,1794,1542,5,1076,Not published for this unit,693,278969,201651,77318,44124,33194,365376,2463,8103998,386290,2027540,43260,2424,5755,670939,1755433
+MARION,19125,0,5293,3316,50,2,Not published for this unit,597,277561,173129,104432,57586,46846,377359,2695,8376390,371062,2355831,51909,645,69,679720,1617209
+MARSHALL,19127,0,8229,1570,0,646,Not published for this unit,2302,238554,200816,37738,16771,20967,370144,1780,6863379,378472,1808258,4912,843,8448,322015,1184168
+MILLS,19129,0,11451,421,0,0,Not published for this unit,551,151129,81889,69240,29584,39656,277906,922,3564201,156780,1215629,9383,1820,32062,211865,880702
+MITCHELL,19131,0,33804,513,0,705,Not published for this unit,313,121295,55724,65571,10084,55487,300738,887,2165450,102083,537995,77,400,15,60115,453962
+MONONA,19133,0,824,16,1000,0,Not published for this unit,1068,105131,28822,76309,8972,67337,438759,391,799210,76045,355905,335,3391,0,65114,422220
+MONROE,19135,0,233,295,50,853,Not published for this unit,450,200516,100453,100063,49213,50850,289860,1544,4682189,123831,1531809,25081,6,6930,402381,1089687
+MONTGOMERY,19137,0,0,70,0,0,Not published for this unit,23,70447,30284,40163,11656,28507,265610,420,1373765,58208,476059,240,700,400,65515,302311
+MUSCATINE,19139,0,96049,4011,8835,448,Not published for this unit,426,255123,204261,50862,31285,19577,281740,1972,9490715,300877,2005772,34117,7797,28495,584914,1671159
+O BRIEN,19141,0,404,0,0,0,Not published for this unit,0,16320,3146,13174,0,13174,363766,120,82070,1100,27600,0,0,0,0,41490
+OSCEOLA,19143,0,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,251304,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+PAGE,19145,0,110,120,0,0,Not published for this unit,393,150785,80941,69844,25188,44656,313972,1165,3562383,189984,912001,5103,170,1340,270469,913544
+PALO ALTO,19147,0,0,69,0,0,Not published for this unit,173,25173,4852,20321,1646,18675,364111,187,195053,18742,105692,0,0,265,13869,101202
+PLYMOUTH,19149,1,970,0,0,0,Not published for this unit,0,34418,11274,23144,365,22779,554626,330,277749,22567,119291,0,0,0,0,125750
+POCAHONTAS,19151,0,260,63,0,0,Not published for this unit,96,38546,7078,31468,951,30517,391856,221,330930,29405,49913,0,0,0,12347,99312
+POLK,19153,0,17253,683,0,448,Not published for this unit,1473,226738,151014,75724,34218,41506,374708,1794,6667664,310167,2113188,27041,7403,5838,567702,1421866
+POTTAWATTA,19155,0,6169,106,0,0,Not published for this unit,669,103652,46043,57609,20681,36928,598150,785,2471865,136278,805992,4897,9770,33336,110636,586654
+POWESHIEK,19157,0,19778,1647,0,0,Not published for this unit,445,233905,151419,82486,18379,64107,382039,1560,6107700,341954,1507008,8382,370,2841,272470,1282205
+RINGGOLD,19159,0,313,595,0,0,Not published for this unit,334,107259,41919,65340,21387,43953,332101,765,1664735,112311,591950,2050,100,1320,150567,580050
+SAC,19161,0,0,292,0,0,Not published for this unit,308,38392,9070,29322,2916,26406,379349,201,429933,32846,160981,10,250,112,16452,111436
+SCOTT,19163,0,638440,1340,200,350,Not published for this unit,718,259206,235741,23465,14835,8630,301789,2254,11744695,497591,2747995,36207,36902,16112,706116,1932358
+SHELBY,19165,0,10,0,0,0,Not published for this unit,239,39794,16368,23426,6184,17242,365132,326,797800,58738,349091,456,6128,3912,38970,264761
+SIOUX,19167,1,0,0,0,0,Not published for this unit,0,5410,1237,4173,0,4173,491262,61,20630,620,15150,0,0,0,0,24305
+STORY,19169,0,808,424,256,2240,Not published for this unit,772,76498,42474,34024,9468,24556,370119,434,1908980,99809,453407,1878,369,0,133027,407708
+TAMA,19171,0,23588,1934,50,0,Not published for this unit,820,267082,167563,99519,20283,79236,469271,2057,6540221,432728,1745772,6732,184,26144,375148,1350223
+TAYLOR,19173,0,203,242,0,0,Not published for this unit,16,109719,46895,62824,22873,39951,316314,709,2212586,91340,518842,870,0,500,109745,592739
+UNION,19175,0,0,398,11,0,Not published for this unit,34,66697,28675,38022,11330,26692,279110,519,1233983,73495,416087,824,106,771,85181,357037
+VAN BUREN,19177,0,526,1585,4,80,Not published for this unit,660,223897,128615,95282,85189,10093,312540,1663,5538664,241384,1758720,33986,200,6345,465711,1241738
+WAPELLO,19179,0,3016,1319,50,132,Not published for this unit,487,210345,132373,77972,51734,26238,286269,1703,5861913,243546,1658095,38563,10691,7304,448943,1217715
+WARREN,19181,0,4676,1334,0,331,Not published for this unit,800,245796,142942,102854,47719,55135,373808,2034,7461356,306118,2492151,44269,650,951,644352,1587699
+WASHINGTON,19183,0,6415,1349,0,0,Not published for this unit,240,259807,197396,62411,41762,20649,362326,2062,8135408,332745,1786789,33194,1123,152,478411,1571064
+WAYNE,19185,0,1946,1540,0,1159,Not published for this unit,486,161146,95785,65361,27509,37852,324885,1205,3154245,184257,1161527,9978,0,425,258545,843481
+WEBSTER,19187,0,2657,753,0,0,Not published for this unit,140,99733,37175,62558,8967,53591,462404,738,1852565,139103,664032,201,610,0,60787,472668
+WINNEBAGO,19189,0,532,0,210,5,Not published for this unit,44,16949,3955,12994,2190,10804,260186,120,203030,14196,53794,5,0,0,9467,57490
+WINNESHIEK,19191,0,99095,2046,0,0,Not published for this unit,1506,347528,243975,103553,44360,59193,448263,1418,8119041,498109,2888244,4963,10705,124175,410761,1648947
+WOODBURY,19193,1,1876,24,0,0,Not published for this unit,265,40890,12475,28415,6005,22410,558902,221,707900,55811,318705,0,500,79000,9180,231405
+WORTH,19195,0,1097,249,0,0,Not published for this unit,174,53947,14030,39917,6475,33442,265856,360,738641,64580,223474,110,310,0,31583,202466
+WRIGHT,19197,0,1968,154,0,0,Not published for this unit,43,49667,18323,31344,3793,27551,374705,323,682665,40995,212609,16,0,0,32959,187838
+ALLEN,20001,0,Not published for this unit,Result of merge,0,0,0,17,70317,30474,39843,8070,31773,323279,413,1412870,65150,435572,2898,631,6742,66234,364006
+ANDERSON,20003,0,Not published for this unit,Result of merge,0,0,0,146,113778,29598,84180,14066,70114,381958,745,1343358,84427,442653,858,310,26662,77665,460046
+ATCHISON,20005,0,Not published for this unit,Result of merge,0,0,0,158,164469,82593,81876,24132,57744,287858,1162,3525775,210242,1204753,4651,5245,18492,242744,793741
+,20007,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,498707,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+BARTON,20009,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,576721,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+BOURBON,20011,0,Not published for this unit,Result of merge,0,0,0,455,252068,98069,153999,23570,130429,412876,1417,4783865,190817,1187729,11837,13019,4944,136744,780151
+BROWN,20013,0,Not published for this unit,Result of merge,0,0,0,62,116604,50174,66430,10121,56309,370605,696,2245711,111550,454232,2625,0,2679,160415,628520
+BUTLER,20015,0,Not published for this unit,Result of merge,0,0,0,0,69110,10839,58271,10735,47536,1077920,359,544230,39683,107411,0,150,50,29608,284285
+CHASE,20017,0,Not published for this unit,Result of merge,0,0,0,109,54968,9810,45158,6704,38454,410803,342,940697,39167,178286,75,0,0,35547,279964
+CHEROKEE/MCGHEE,20021,0,Not published for this unit,Result of merge,0,35,2,465,228389,61428,166961,22742,144219,360612,1531,2063517,131428,848675,4290,1173,7799,62676,574269
+,20025,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,486187,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+CLAY,20027,0,Not published for this unit,Result of merge,0,0,0,0,76807,10885,65922,2936,62986,411169,482,624990,48650,188725,0,307,401,19228,234869
+CLOUD,20029,0,Not published for this unit,Result of merge,0,0,5,165,96649,90371,6278,6260,18,460697,604,572910,40360,155044,0,250,100,10753,220978
+COFFEY,20031,0,Not published for this unit,Result of merge,0,100,0,314,110577,34798,75779,12806,62973,412506,843,1953215,92921,528077,1546,320,15490,103458,790146
+,20033,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,490334,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+COWLEY,20035,0,Not published for this unit,Result of merge,0,0,0,170,66605,2381,64224,12853,51371,715171,392,295917,16476,163151,400,0,0,80,118950
+CRAWFORD,20037,0,Not published for this unit,Result of merge,0,4,0,450,254220,60181,194039,13616,180423,377930,1603,2676500,132533,709767,35,481,4711,67497,640476
+DICKINSON,20041,0,Not published for this unit,Result of merge,0,0,0,36,59585,12396,47189,3545,43644,551107,358,636112,31440,181152,20,360,0,56322,265418
+DONIPHAN,20043,0,Not published for this unit,Result of merge,0,0,0,310,154129,88028,66101,20935,45166,266259,1419,3962347,176355,1625724,9900,2202,20695,401404,918480
+DOUGLAS,20045,0,Not published for this unit,Result of merge,0,316,0,636,213899,94852,119047,27936,91111,308451,1881,6689989,150593,3514452,20314,22288,30355,238100,1240213
+ELLIS,20051,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,595735,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+ELLSWORTH,20053,1,Not published for this unit,Result of merge,0,0,0,2,19356,2476,16880,1502,15378,465973,109,113470,10085,53492,0,1665,2661,55790,67985
+FORD,20057,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,580783,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+FRANKLIN,20059,0,Not published for this unit,Result of merge,120,50,0,20,161466,78324,83142,14064,69078,363145,1175,3438800,177805,974590,2135,0,16450,72100,765960
+DAVIS,20061,0,Not published for this unit,Result of merge,0,0,Not available,36,50993,45006,5987,5265,722,253980,302,760530,15945,553860,0,5485,15715,45715,304735
+GOVE,20063,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,457856,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+,20065,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,572296,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+GREENWOOD,20073,0,Not published for this unit,Result of merge,0,0,0,210,77598,20161,57437,13272,44165,793701,451,997453,36972,342868,282,4342,280,50628,331815
+,20077,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,737704,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,20083,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,595391,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+JACKSON,20085,0,Not published for this unit,Result of merge,0,0,0,0,118818,41833,76985,18103,58882,412729,718,2386640,85319,641441,3407,40,0,86969,635244
+JEFFERSON,20087,0,Not published for this unit,Result of merge,0,0,0,153,199617,97583,102034,29586,72448,332905,1741,4363943,179907,1031237,1906,135,5551,357470,1142748
+JEWELL,20089,1,Not published for this unit,Result of merge,0,0,0,0,19835,964,18871,866,18005,596667,124,47750,3008,20350,0,0,0,0,8347
+JOHNSON,20091,0,Not published for this unit,Result of merge,750,349,0,2918,186624,119528,67096,20425,46671,322141,1343,4300355,181620,1172387,4328,1109,2480,147329,836905
+,20097,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,593896,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+LABETTE,20099,0,Not published for this unit,Result of merge,0,0,0,205,207651,40782,166869,12058,154811,404752,1326,1851390,93550,457907,193,759,4594,36391,538623
+LEAVENWORTH,20103,0,Not published for this unit,Result of merge,0,677,0,2133,177475,100191,77284,43821,33463,312374,1558,5207554,152678,1407381,46732,48009,34100,269346,944695
+LINCOLN,20105,1,Not published for this unit,Result of merge,0,0,0,0,12922,1226,11696,1082,10614,455500,80,69150,4931,6960,0,70,35,670,33436
+LINN,20107,0,Not published for this unit,Result of merge,70,0,0,420,213831,93198,120633,37926,82707,397994,1304,3576846,158751,977132,5385,2259,14159,169449,832029
+LYON,20111,0,Not published for this unit,Result of merge,0,0,0,119,108943,38253,70690,13381,57309,521927,792,2551968,101780,513781,5033,1055,15606,69086,674945
+MCPHERSON,20113,0,Not published for this unit,Result of merge,0,0,0,6,45902,3608,42294,1586,40708,575209,239,270770,12121,39436,71,0,325,2982,72210
+MARION,20115,0,Not published for this unit,Result of merge,0,0,0,7,14294,3601,10693,1118,9575,542902,126,185760,13479,95728,0,209,0,20157,107699
+MARSHALL,20117,0,Not published for this unit,Result of merge,0,0,0,442,151103,33868,117235,9244,107991,605760,1014,1545385,79748,568849,100,561,5671,67917,468748
+MIAMI/LYKINS,20121,0,Not published for this unit,Result of merge,0,22,0,180,196384,88928,107456,29463,77993,380789,1271,4069590,145942,891307,4781,400,123,154154,861145
+MITCHELL,20123,1,Not published for this unit,Result of merge,0,0,0,0,32060,30192,1868,1708,160,455521,196,98250,9302,5131,0,0,0,0,56377
+MONTGOMERY,20125,0,Not published for this unit,Result of merge,0,0,0,84,168905,21653,147252,16603,130649,401725,1120,821800,40114,288159,0,0,87,7023,337771
+MORRIS,20127,0,Not published for this unit,Result of merge,0,0,0,0,35478,10506,24972,5199,19773,444640,256,549946,30105,165542,300,0,0,18253,181086
+NEMAHA,20131,0,Not published for this unit,Result of merge,0,0,0,220,161143,41723,119420,19430,99990,464464,840,1996630,115322,536817,90,0,2000,202138,638993
+NEOSHO/DORN,20133,0,Not published for this unit,Result of merge,0,0,0,686,131029,38915,92114,12449,79665,367397,825,1472533,77194,422882,64,1369,5467,48995,368161
+NESS,20135,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,576567,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+,20137,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,555647,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+OSAGE,20139,0,Not published for this unit,Result of merge,0,0,0,95,163756,29178,134578,11628,122950,461708,1086,1943030,107174,398571,1250,225,80,60567,599530
+OSBORNE,20141,1,Not published for this unit,Result of merge,0,0,0,0,4000,3780,220,220,0,564489,25,7200,880,0,0,0,0,0,3130
+OTTAWA,20143,0,Not published for this unit,Result of merge,100,0,0,40,83955,11441,72514,6030,66484,457631,510,559240,34889,188048,0,885,395,16051,290747
+PAWNEE,20145,1,5,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,584077,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+,20147,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,570564,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+POTTAWATOMIE,20149,0,Not published for this unit,Result of merge,0,0,0,105,106582,31732,74850,14141,60709,543679,778,1891220,108063,803439,690,6477,15377,118092,653376
+,20151,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,593689,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,20155,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1125821,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+REPUBLIC,20157,0,Not published for this unit,Result of merge,0,0,0,55,69820,5613,64207,3404,60803,484697,433,373700,18956,130698,0,0,25,2726,100376
+RICE,20159,1,Not published for this unit,Result of merge,0,0,0,0,800,13,787,25,762,464196,5,2600,55,1340,0,20,0,42,1412
+RILEY,20161,0,Not published for this unit,Result of merge,0,0,0,88,100279,28366,71913,9566,62347,381744,655,1808615,93171,502384,825,600,7096,57367,483128
+,20163,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,570475,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,20165,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,561408,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+RUSSELL,20167,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,569819,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+SALINE,20169,0,Not published for this unit,Result of merge,0,0,0,41,113225,19756,93469,3440,90029,458814,662,1185962,68770,347187,50,0,0,18378,311096
+SEDGWICK,20173,1,Not published for this unit,Result of merge,0,0,0,20,38508,3459,35049,3388,31661,1085991,241,266790,21725,171797,0,100,0,18223,76832
+SHAWNEE,20177,0,Not published for this unit,Result of merge,0,0,0,679,98080,43259,54821,11918,42903,357076,684,3485760,110217,764228,4520,5253,6055,113287,671997
+SMITH,20183,1,Not published for this unit,Result of merge,0,0,0,0,6880,407,6473,652,5821,576690,43,25300,875,9600,0,0,0,0,5760
+,20185,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,587492,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+SUMNER,20191,0,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,711369,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+TREGO,20195,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,590580,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+WABAUNSEE,20197,0,Not published for this unit,Result of merge,0,0,0,153,85421,16875,68546,9122,59424,539940,551,973080,64681,234845,1165,125,500,22052,334490
+WALLACE,20199,1,Not published for this unit,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,1542687,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+WASHINGTON,20201,0,Not published for this unit,Result of merge,0,0,0,168,49990,9819,40171,5184,34987,593932,295,453290,26154,165307,0,0,0,18302,148416
+WILSON,20205,0,Not published for this unit,Result of merge,0,0,0,74,61374,14893,46481,8362,38119,356423,371,703240,50533,262776,200,0,0,36452,261682
+WOODSON,20207,0,Not published for this unit,Result of merge,0,0,0,54,32715,10024,22691,4984,17707,315508,181,398810,20830,151220,133,100,0,18726,170672
+WYANDOTTE,20209,0,Not published for this unit,Result of merge,0,0,0,174,38423,20741,17682,11924,5758,103620,462,1208807,31939,350414,14957,1025,74995,54910,181031
+HOWARD,20225,0,Result of merge,Result of merge,0,0,Result of merge,29,9470,2251,7219,2253,4966,792880,63,91880,6930,56157,0,0,0,10174,75341
+,20999,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,11781241,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+AITKIN,27001,0,0,0,0,0,Not published for this unit,8,307,6,301,160,141,657900,2,500,25,400,0,0,0,0,330
+ANOKA,27003,0,481,725,0,0,Not published for this unit,372,46575,8434,38141,3295,34846,293037,338,421379,18328,123215,0,0,0,10612,138944
+BECKER,27005,1,0,0,0,0,Not published for this unit,0,1010,267,743,30,713,918698,7,6300,615,3243,0,0,0,150,4360
+BELTRAMI,27007,0,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,1898102,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+BENTON,27009,0,314,47,0,0,Not published for this unit,261,9788,2553,7235,3747,3488,262499,54,73450,3590,37765,0,0,0,4094,30138
+BIG STONE,27011,1,0,0,0,0,Not published for this unit,0,13,13,0,0,0,141284,3,65,290,299,0,0,0,0,1670
+BLUE EARTH,27013,0,35146,989,0,0,Not published for this unit,1435,279144,102295,176849,51397,125452,494300,1965,5133375,343832,1415075,250,1687,35744,147653,886048
+BROWN,27015,0,24448,273,0,239,Not published for this unit,616,138189,33821,104368,11512,92856,312083,966,1493537,126720,333061,0,44,5332,21673,318060
+CARLTON,27017,0,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,538719,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+CARVER,27019,0,33987,127,823,2714,Not published for this unit,952,167983,34047,133936,95241,38695,238391,1568,2637526,154559,867331,275,1485,9039,77971,513100
+CASS,27021,0,0,0,0,0,Not published for this unit,20,224,74,150,0,150,3252740,2,850,120,1770,0,0,0,0,1360
+CHIPPEWA,27023,1,450,80,0,0,Not published for this unit,0,13055,9524,3531,1431,2100,849170,287,45365,15285,57088,0,0,0,0,90804
+CHISAGO,27025,0,1848,515,0,0,Not published for this unit,1181,42597,8004,34593,28073,6520,256832,350,477720,17434,211638,0,4421,14022,25014,163325
+CLAY,27027,1,0,0,0,0,Not published for this unit,0,850,22,828,454,374,686427,4,1598,425,1106,0,0,0,90,2085
+COTTONWOOD,27033,0,0,0,0,0,Not published for this unit,3,6377,782,5595,315,5280,466879,43,43600,1000,14900,0,0,0,150,12420
+CROW WING,27035,0,0,0,0,0,Not published for this unit,16,674,380,294,115,179,409582,5,5950,990,6362,0,0,0,840,9075
+DAKOTA,27037,0,33877,2496,0,6263,Not published for this unit,2456,261766,162503,99263,24129,75134,375303,1764,5226820,358085,2509758,2161,11703,9021,140813,1014741
+DODGE,27039,0,47150,5071,0,401,Not published for this unit,884,151081,74540,76541,12729,63812,289387,1114,2933717,196889,1017813,61,20,1925,45912,577198
+DOUGLAS,27041,1,3934,1224,0,0,Not published for this unit,716,111696,13982,97714,27005,70709,457087,654,589050,36573,190291,0,2404,2170,9073,168758
+FARIBAULT,27043,0,25786,541,0,4,Not published for this unit,1247,240103,68027,172076,6610,165466,476398,1475,2916985,229399,732645,60,185,2237,81538,587898
+FILLMORE,27045,0,108335,1200,0,0,Not published for this unit,709,399546,185087,214459,52366,162093,573804,2826,6636880,397668,2664398,100,0,105,265363,1409805
+FREEBORN,27047,0,7188,1137,0,0,Not published for this unit,459,225877,69048,156829,12067,144762,456877,1571,3077225,239925,856233,75,440,4252,84091,665956
+GOODHUE,27049,0,81878,3826,15,204,Not published for this unit,2581,349376,217028,132348,29194,103154,499601,2374,6723190,544580,2269040,335,6986,2435,175551,1331058
+GRANT,27051,1,25,0,0,0,Not published for this unit,8,10917,864,10053,1384,8669,354148,60,40835,2770,9264,0,0,0,280,16924
+HENNEPIN,27053,0,11326,2603,62800,6504,Not published for this unit,4367,199543,64704,134839,59093,75746,384550,1771,4164074,206620,1400479,676,13088,26591,149908,862159
+HOUSTON,27055,0,31182,1416,0,0,Not published for this unit,404,160659,67824,92835,27992,64843,366514,1217,2706140,136693,964512,365,40,24629,114202,518650
+ISANTI,27059,0,57,449,212,0,Not published for this unit,619,50480,7614,42866,13116,29750,295564,348,225751,15534,95477,0,0,630,10120,85921
+ITASCA,27061,0,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,4013685,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+JACKSON,27063,0,392,60,0,0,Not published for this unit,113,32940,5391,27549,1560,25989,473828,209,261815,20500,90650,0,650,0,6590,59576
+KANABEC,27065,0,0,0,0,0,Not published for this unit,14,120,50,70,70,0,344844,1,1000,100,700,0,0,5,0,600
+KANDIYOHI,27067,0,651,90,0,0,Not published for this unit,62,31849,6199,25650,1604,24046,268948,318,266281,17615,45720,0,0,0,3909,77733
+LAC QUI PARLE,27072,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,268,268,0,0,0,Result of merge,23,1355,1645,2243,0,0,0,0,8655
+LAKE,27075,0,20,0,0,0,Not published for this unit,80,633,111,522,422,100,2608525,3,16000,650,3500,0,0,0,200,1450
+LE SUEUR,27079,0,18692,621,0,0,Not published for this unit,1442,175817,37245,138572,122169,16403,298864,1535,2614215,173430,907789,137,324,26279,188613,574377
+MC LEOD,27085,0,10914,962,62,6,Not published for this unit,1304,138020,21447,116573,64656,51917,316554,943,1107763,69772,295219,0,0,72,40364,290165
+MARTIN,27091,0,5262,276,0,0,Not published for this unit,299,112759,19453,93306,1736,91570,473987,699,1073755,76455,258080,0,0,0,23003,239240
+MEEKER,27093,0,10492,673,12339,1325,Not published for this unit,428,120603,21538,99065,39349,59716,407395,932,1136505,80757,411917,11,265,0,1314,263249
+MILLE LACS,27095,0,96,360,0,0,Not published for this unit,256,14435,1784,12651,6298,6353,437568,91,86410,8790,40514,0,0,1775,4418,33869
+MORRISON,27097,0,756,94,0,0,Not published for this unit,358,17207,3497,13710,5364,8346,719891,126,107221,9998,62383,0,250,532,8008,56116
+MOWER,27099,0,39975,385,44470,210,Not published for this unit,276,160266,65522,94744,9429,85315,455112,1164,2674775,201645,949145,0,525,1730,80335,516132
+MURRAY,27101,0,200,0,0,0,Not published for this unit,62,2407,413,1994,359,1635,451804,15,15100,1450,6400,0,0,0,460,5850
+NICOLLET,27103,0,32411,83,1295,20,Not published for this unit,658,134006,50828,83178,18936,64242,177838,978,1907475,98449,645855,0,9698,18801,54193,365841
+NOBLES,27105,0,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,454098,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+OLMSTED,27109,0,114056,2901,5,0,Not published for this unit,2327,335701,202008,133693,25612,108081,414012,2269,7308111,531079,2877800,1150,3059,510,178730,1362321
+OTTER TAIL,27111,1,37,554,0,0,Not published for this unit,199,32530,3632,28898,5436,23462,1277582,264,151281,14897,36539,0,540,0,676,54853
+PINE,27115,0,0,0,0,0,Not published for this unit,15,170,45,125,125,0,899232,2,5000,215,1900,0,0,0,1000,2050
+POLK,27119,1,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,2884499,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+POPE,27121,1,2239,724,0,0,Not published for this unit,257,92745,12646,80099,10638,69461,463412,555,493833,30783,161386,0,30,1200,4529,113372
+RAMSEY,27123,0,9015,395,450,165,Not published for this unit,613,24017,10224,13793,4210,9583,109262,243,1083950,20915,514884,105,32307,1565,31350,164037
+REDWOOD,27127,1,470,120,0,0,Not published for this unit,47,4655,1074,3581,875,2706,1526111,23,48600,5975,17417,0,905,990,1018,15473
+RENVILLE,27129,0,3610,399,0,0,Not published for this unit,97,74802,9728,65074,3990,61084,622779,512,343490,30149,96043,0,0,0,2606,116999
+RICE,27131,0,36773,4250,0,45,Not published for this unit,2238,207416,94475,112941,63303,49638,330124,1570,3584355,273357,1291392,309,923,35276,149623,777420
+ROCK,27133,1,0,0,0,0,Not published for this unit,0,3093,463,2630,273,2357,600836,19,10700,2200,6650,0,0,0,50,6075
+ST LOUIS,27137,0,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Not available,Result of merge,Not available,Not available,4309012,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+SCOTT,27139,0,15667,2391,0,0,Not published for this unit,740,153398,46566,106832,64932,41900,235315,1310,2204115,139307,673973,0,400,7582,119881,516568
+SHERBURNE,27141,0,645,1303,0,0,Not published for this unit,1257,49163,7877,41286,6516,34770,284589,279,486950,34750,157573,0,0,0,18509,129560
+SIBLEY,27143,0,34545,125,0,0,Not published for this unit,2281,151721,31275,120446,49485,70961,481079,1118,1468800,140000,536376,0,0,17260,125679,412565
+STEARNS,27145,0,23856,968,80,160,Not published for this unit,1797,341019,55182,285837,172866,112971,894002,2000,2740575,241207,789885,0,150,8169,128441,603931
+STEELE,27147,0,12709,2061,0,200,Not published for this unit,757,118377,47738,70639,10017,60622,275891,831,1974300,166420,546701,5,0,0,55872,375185
+STEVENS,27149,1,50,0,0,0,Not published for this unit,15,7131,745,6386,484,5902,364305,47,37300,2570,15811,0,0,0,340,9840
+TODD,27153,0,1065,433,0,0,Not published for this unit,440,31614,3762,27852,11203,16649,624068,176,219370,14428,71672,0,128,1673,4786,52171
+TRAVERSE,27155,1,0,0,0,0,Not published for this unit,0,320,20,300,100,200,576334,2,400,200,1000,0,0,0,0,200
+WABASHA,27157,0,80125,3218,0,0,Not published for this unit,2098,275294,136500,138794,25133,113661,358600,1883,5997080,450273,2139397,2041,2291,7792,128702,989948
+WADENA,27159,0,0,0,0,0,Not published for this unit,0,136,6,130,30,100,335273,1,250,20,650,0,0,0,0,1450
+WASECA,27161,0,8754,919,10,0,Not published for this unit,890,145726,49259,96467,17727,78740,280173,1030,1995036,166676,648297,150,0,2821,67536,410662
+WASHINGTON,27163,0,42155,505,0,0,Not published for this unit,1857,104902,48471,56431,17595,38836,247282,679,2681780,166141,790181,876,4269,6220,35832,383650
+WATONWAN,27165,0,2125,286,0,0,Not published for this unit,502,54218,16720,37498,1359,36139,279332,407,617350,50773,170188,0,2147,1785,11625,136198
+WILKIN,27167,1,139,0,10,0,Not published for this unit,0,9042,906,8136,1868,6268,603666,49,23003,4666,43455,0,0,0,1790,17160
+WINONA,27169,0,64311,3562,0,0,Not published for this unit,1744,271455,136584,134871,31657,103214,409749,2037,5893010,339461,1883873,6676,13870,30987,163470,1144203
+WRIGHT,27171,0,7639,653,0,125,Not published for this unit,1514,101296,23631,77665,65419,12246,463508,807,1131256,48720,309251,0,0,372,54226,252292
+MONONGALIA,27181,0,4766,348,0,50,Not published for this unit,250,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,285561,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+PEMBINA,27183,1,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Not published for this unit,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,4615376,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30001,0,450,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,3208996,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30003,1,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,25166296,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30015,1,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,9470972,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30021,1,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,17212108,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30023,1,4960,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,7752650,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30031,1,37530,Result of merge,Not published for this unit,Not published for this unit,0,342,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,6264968,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30043,0,6605,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1535808,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30049,1,12223,Result of merge,Not published for this unit,Not published for this unit,0,1207,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1742009,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30057,0,11130,Result of merge,Not published for this unit,Not published for this unit,0,265,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,2905513,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30059,1,11324,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,6599106,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,30063,0,1534,Result of merge,Not published for this unit,Not published for this unit,0,600,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,12049914,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+ADAMS,31001,1,706,Result of merge,0,0,0,0,2246,416,1830,6,1824,424675,13,8940,1770,7605,0,0,0,0,27293
+BUFFALO,31019,1,0,Result of merge,0,0,0,0,1400,295,1105,83,1022,514831,9,4685,1030,6097,0,0,0,940,9860
+BURT,31021,0,512,Result of merge,4,0,0,343,93084,25451,67633,3693,63940,310101,428,1040787,62502,322951,0,385,0,36570,258106
+BUTLER,31023,0,25,Result of merge,0,0,0,0,40743,9260,31483,1318,30165,390829,276,317800,9040,60760,0,0,0,500,101050
+CASS,31025,0,4015,Result of merge,0,0,0,50,130196,65195,65001,11994,53007,370267,898,2886152,125974,1408405,1600,2210,0,166335,614858
+CEDAR,31027,1,668,Result of merge,0,0,0,121,31657,5324,26333,5509,20824,477584,141,244050,27865,133880,0,655,870,12461,104623
+CHEYENNE,31033,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,Result of merge,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+CLAY,31035,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,374073,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+COLFAX,31037,0,540,Result of merge,0,0,0,45,17015,4141,12874,689,12185,278055,127,104127,16533,68256,0,10,0,7437,75295
+CUMING,31039,0,11809,Result of merge,0,0,0,306,94323,21293,73030,3487,69543,321281,512,865645,54476,205249,60,0,785,19210,169896
+DAKOTA,31043,1,0,Result of merge,0,0,Not available,658,58358,9564,48794,11250,37544,224225,249,777285,39870,253587,337,0,0,24740,206393
+DAWSON,31047,1,3841,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,1830916,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+DIXON,31051,1,663,Result of merge,0,0,0,179,118886,4996,113890,83155,30735,325081,214,187279,16448,67081,0,210,0,9680,96511
+DODGE,31053,0,4146,Result of merge,0,0,0,0,124680,35392,89288,2419,86869,337898,821,1520300,60136,150505,0,1173,0,5700,327276
+DOUGLAS,31055,0,6555,Result of merge,0,0,0,0,65136,30333,34803,3544,31259,223795,427,2515905,99955,560525,0,13050,4260,37640,339005
+FILLMORE,31059,0,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,373034,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+FRANKLIN,31061,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,368710,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+GAGE,31067,0,580,Result of merge,0,350,0,26,94805,19324,75481,6808,68673,525870,452,1018940,41350,323192,0,0,0,23383,212896
+GRANT,31075,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,2333669,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+HALL,31079,1,12669,Result of merge,0,0,0,0,15400,5807,9593,931,8662,584251,101,258600,24954,111025,0,1945,0,11647,105051
+HAMILTON,31081,1,939,Result of merge,0,0,0,0,5600,1122,4478,167,4311,344618,Recorded under another unit,43400,2330,14645,0,0,0,390,12111
+,31089,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1634761,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+JEFFERSON,31095,0,0,Result of merge,50,0,0,77,45688,8737,36951,5370,31581,722972,256,355490,20244,79774,0,120,398,8533,110502
+JOHNSON/JOHNSTON,31097,0,865,Result of merge,0,2,0,211,38584,11237,27347,3319,24028,230207,221,541825,36696,187383,30,28,788,19170,120328
+KEARNEY,31099,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,331916,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+KNOX/L'EAU QUI CO,31107,1,89,Result of merge,Not available,Not available,0,Not available,10101,797,9304,894,8410,Result of merge,52,51850,5215,25425,0,100,0,2815,20610
+LANCASTER,31109,0,4489,Result of merge,0,52,0,256,121444,37805,83639,4312,79327,534710,969,2136053,125868,578414,871,2939,9619,42389,374029
+LINCOLN,31111,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,767362,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+MADISON,31119,1,1169,Result of merge,0,0,0,63,16859,3912,12947,278,12669,365026,Recorded under another unit,150350,9530,71450,0,10,0,3905,48265
+MERRICK,31121,1,3035,Result of merge,0,0,0,5,9309,3485,5824,719,5105,440007,55,131670,12135,53845,0,0,0,5157,43149
+NEMAHA,31127,0,1370,Result of merge,0,0,0,42,24088,10760,13328,3042,10286,271039,153,540950,30112,276131,1068,436,10,26348,142488
+NUCKOLLS,31129,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,365744,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+OTOE,31131,0,129832,Result of merge,0,0,0,8,167787,77162,90625,9495,81130,397905,1033,3765270,146709,701778,5500,70,340,84661,584910
+PAWNEE,31133,0,1152,Result of merge,0,0,0,77,128732,29052,99680,8272,91408,260103,652,1542530,70842,395266,228,533,3630,44671,354081
+PIERCE,31139,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,372831,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+PLATTE,31141,0,2250,Result of merge,0,0,0,34,33904,10342,23562,1008,22554,424059,293,396390,32325,204687,0,1805,0,20315,168275
+POLK,31143,0,0,Result of merge,0,0,0,0,3223,718,2505,0,2505,288734,Recorded under another unit,27500,25,8035,0,0,0,0,11315
+RICHARDSON,31147,0,3560,Result of merge,0,0,0,73,175460,73939,101521,17095,84426,369479,1217,3669350,172162,875429,66,0,1232,123991,748223
+SALINE,31151,0,14,Result of merge,0,0,0,29,19837,4114,15723,2056,13667,378617,136,182150,10604,35912,0,60,345,6325,58725
+SARPY,31153,0,12135,Result of merge,0,0,0,3,73512,29707,43805,5757,38048,152412,362,1820461,78070,479315,0,3170,1470,32673,312817
+SAUNDERS,31155,0,430,Result of merge,0,0,0,5,63294,41441,21853,1302,20551,479848,454,615530,38821,210022,1,0,30,24838,186973
+SEWARD,31159,0,1234,Result of merge,0,0,0,147,101566,23513,78053,6076,71977,378093,851,781460,64440,286417,15,677,0,12772,214566
+STANTON,31167,1,368,Result of merge,0,0,0,0,32958,3115,29843,820,29023,271013,58,159600,10961,26727,0,0,0,3111,27521
+WASHINGTON,31177,0,5672,Result of merge,0,0,0,481,93792,35093,58699,8156,50543,262655,639,1426060,92378,371445,156,1063,12530,35369,319190
+WAYNE,31179,1,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,287593,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+WEBSTER,31181,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,349538,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+YORK,31185,0,1149,Result of merge,0,0,0,0,20114,4189,15925,350,15575,368047,232,153802,8346,43524,0,0,0,1174,44994
+BLACKBIRD,31187,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Not available,Result of merge,Not available,Not available,298999,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+HARRISON,31191,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Not available,Result of merge,Not available,Not available,1134503,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+JACKSON,31193,1,Result of merge,Result of merge,0,0,Result of merge,0,Sum of missing values,Not available,Result of merge,Not available,Not available,3084519,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+LYON,31199,1,Result of merge,Result of merge,0,0,Result of merge,0,Sum of missing values,Not available,Result of merge,Not available,Not available,2348326,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+MONROE,31201,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Not available,Result of merge,Not available,Not available,3027174,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+TAYLOR,31205,1,Result of merge,Result of merge,0,0,Result of merge,0,Sum of missing values,Not available,Result of merge,Not available,Not available,2235127,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+,31207,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,55640,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,31209,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,251769,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,31999,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,14807288,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35001,1,25,Result of merge,Not published for this unit,Not published for this unit,0,2216,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1847919,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35007,1,220,Result of merge,Not published for this unit,Not published for this unit,0,158,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,4404262,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35013,1,600,Result of merge,Not published for this unit,Not published for this unit,0,1607,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,15175141,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35017,0,Not available,Result of merge,Not published for this unit,Not published for this unit,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,5928193,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35027,1,2843,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,7848569,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35033,1,46,Result of merge,Not published for this unit,Not published for this unit,0,385,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,2382488,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35039,0,80,Result of merge,Not published for this unit,Not published for this unit,0,341,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,4009146,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35047,1,37,Result of merge,Not published for this unit,Not published for this unit,0,1413,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,7363419,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35049,0,0,Result of merge,Not published for this unit,Not published for this unit,0,1389,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,831708,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35053,0,0,Result of merge,Not published for this unit,Not published for this unit,0,372,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,9899331,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35055,0,25,Result of merge,Not published for this unit,Not published for this unit,0,15040,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,5856189,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35061,1,0,Result of merge,Not published for this unit,Not published for this unit,0,5755,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,7889550,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,35063,0,Result of merge,Result of merge,Not published for this unit,Not published for this unit,Result of merge,180,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,4255953,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,40999,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,44687048,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+ANDERSON,48001,0,0,Result of merge,0,0,4016,1105,241705,43413,198292,10614,187678,677594,551,399740,22311,427988,300,300,1231,54902,237458
+ANGELINA,48005,0,0,Result of merge,0,0,1654,3969,108113,13808,94305,93800,505,569238,456,209030,26765,268990,0,0,0,39809,184828
+ARCHER,48009,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,596395,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+ATASCOSA,48013,0,0,Result of merge,0,0,6,521,62530,4772,57758,57165,593,852345,400,74453,18694,75710,0,0,0,29735,418515
+AUSTIN,48015,0,0,Result of merge,0,0,11967,147,293962,76619,217343,111126,106217,650086,1745,1724465,102037,1392667,1889,535,216,105433,664958
+BANDERA,48019,0,0,Result of merge,0,0,0,45,11894,1156,10738,800,9938,614911,76,21250,4438,22057,5,0,0,4141,31132
+BASTROP,48021,0,0,Result of merge,0,0,8728,0,235308,46210,189098,4193,184905,590128,719,1387995,89340,658725,15,0,0,8970,396915
+BAYLOR,48023,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,590490,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+BEE,48025,0,0,Result of merge,0,0,1,0,10833,452,10381,0,10381,573658,25,16099,250,9435,0,0,0,505,36110
+BELL,48027,0,0,Result of merge,0,0,2896,137,180778,27927,152851,56682,96169,728404,640,614605,22501,472986,130,70,0,55155,390300
+BEXAR,48029,0,0,Result of merge,0,0,117,29,118566,5546,113020,7129,105891,809843,266,256129,19470,326597,14,2537,0,4660,364284
+BLANCO,48031,0,0,Result of merge,0,0,233,0,47215,3690,43525,820,42705,488547,176,90736,17690,66077,0,0,0,12258,99524
+BOSQUE,48035,0,370,Result of merge,0,0,2165,0,112825,21038,91787,32777,59010,666599,603,380355,19084,454317,0,0,0,91200,431045
+BOWIE,48037,0,0,Result of merge,0,0,2990,25,126947,18360,108587,104392,4195,592262,195,223347,16247,331261,1216,0,100,36479,126295
+BRAZORIA,48039,0,0,Result of merge,0,0,2988,10,256160,38181,217979,107562,110417,860621,253,1435070,216995,557284,0,75,0,1275,374250
+BRAZOS,48041,0,0,Result of merge,0,0,6927,66,128798,22046,106752,5955,100797,357791,666,109765,12982,823791,1300,5,0,64685,266946
+BROWN,48049,0,0,Result of merge,0,0,0,0,1452,408,1044,0,1044,844286,22,6450,418,18422,0,0,325,8430,75869
+BURLESON,48051,0,0,Result of merge,0,0,6423,5,166471,24814,141657,76456,65201,652741,665,578649,65265,733635,0,0,0,61099,307498
+BURNET,48053,0,0,Result of merge,0,0,408,21,98887,13510,85377,21488,63889,668974,281,326540,8342,189911,620,15,515,40630,213370
+CALDWELL,48055,0,0,Result of merge,0,0,1692,0,124690,39547,85143,55041,30102,314612,357,500331,33141,169369,0,0,0,0,197247
+CALHOUN,48057,0,0,Result of merge,0,0,0,260,2328,451,1877,610,1267,229071,43,55750,3881,35478,525,1740,5,17209,57438
+CALLAHAN,48059,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,563057,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+CAMERON,48061,0,0,Result of merge,0,0,118,0,336559,4354,332205,29445,302760,1971773,170,102920,12355,157770,0,0,0,14050,444900
+CASS/DAVIS,48067,0,Not available,Result of merge,0,0,Not available,392,236174,53903,182271,182001,270,589482,691,406566,14494,1066633,0,0,200,83439,255723
+CHAMBERS,48071,0,0,Result of merge,0,0,105,27,86592,5365,81227,6056,75171,407856,146,137407,4804,53650,0,0,0,4701,136703
+CHEROKEE,48073,0,118,Result of merge,0,0,5185,756,133014,43206,89808,376,89432,679321,1216,465947,20192,660298,1027,0,0,59676,343385
+CLAY,48077,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,735596,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+COLEMAN,48083,0,0,Result of merge,0,0,0,0,1750,150,1600,1300,300,835739,9,2450,115,13660,0,0,60,8720,53286
+COLLIN,48085,0,118,Result of merge,0,0,4371,16,280688,51728,228960,81731,147229,575870,903,3002800,43570,994100,21,545,2065,150350,882510
+COLORADO,48089,0,10,Result of merge,0,0,2796,49,161506,30244,131262,89896,41366,552213,456,493890,41430,335115,3256,300,0,7995,242130
+COMAL,48091,0,0,Result of merge,0,0,1303,89,115335,13850,101485,5255,96230,329415,490,632950,53672,260350,434,20,1658,20029,214347
+COMANCHE,48093,0,0,Result of merge,0,0,28,0,17479,1543,15936,0,15936,612663,126,40595,5125,28326,0,0,0,0,98334
+CONCHO,48095,0,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,662673,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+COOKE,48097,0,510,Result of merge,0,0,308,67,111415,20159,91256,57282,33974,605209,568,688565,18337,320480,2445,0,551,87992,424565
+CORYELL,48099,0,0,Result of merge,0,0,378,164,96736,11831,84905,22386,62519,710304,279,210537,15350,233214,10,16,0,3731,239131
+DALLAS,48113,0,154,Result of merge,0,0,3834,99,256168,65300,190868,56057,134811,577373,1363,1578915,50294,783166,1873,300,0,95751,816567
+DENTON,48121,0,190,Result of merge,0,0,674,217,93724,19778,73946,33954,39992,607715,566,585972,19824,341604,260,110,50,49462,488247
+DE WITT,48123,0,0,Result of merge,0,0,541,50,199821,22884,176937,67733,109204,578268,609,478823,8566,225673,0,0,0,49853,369621
+DIMMIT,48127,0,Not available,Result of merge,Not available,Not available,Not available,0,886,510,376,180,196,836870,16,3860,980,79050,0,0,0,0,72047
+DUVAL,48131,0,0,Result of merge,0,0,0,0,54546,740,53806,0,53806,1204727,39,19321,300,26522,0,0,0,3355,75735
+EASTLAND,48133,1,0,Result of merge,0,0,0,0,16,16,0,0,0,610769,5,230,20,4325,0,0,0,2050,17867
+EDWARDS,48137,0,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,656950,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+ELLIS,48139,0,0,Result of merge,0,0,2960,115,172476,28201,144275,29859,114416,589321,663,633232,28474,412826,25,100,0,23450,462573
+EL PASO,48141,0,0,Result of merge,0,0,0,3,100,50,50,0,50,6844254,1,800,125,326,100,50,0,0,300
+ERATH,48143,1,85,Result of merge,0,0,167,40,58413,5858,52555,19157,33398,702712,238,151378,18985,119288,30,0,0,27031,307865
+FALLS,48145,0,0,Result of merge,0,0,14126,50,105993,32988,73005,32224,40781,510679,991,549704,45051,1080186,8700,250,0,13664,363236
+FANNIN,48147,0,0,Result of merge,0,0,5699,35,231875,46097,185778,60,185718,551956,1060,1302250,51072,759456,1395,0,3530,103186,621794
+FAYETTE,48149,0,20,Result of merge,0,0,10653,392,350752,76041,274711,126455,148256,656896,1483,2117213,129826,1232740,738,0,11045,113668,915033
+FORT BEND,48157,0,0,Result of merge,0,0,4017,25,150738,31258,119480,79312,40168,600415,178,924241,111638,595193,1796,35,2784,52160,390084
+FREESTONE,48161,0,0,Result of merge,0,0,6465,22,193772,47558,146214,24167,122047,551276,1029,692461,32461,659420,50,50,50,26233,411576
+FRIO,48163,0,0,Result of merge,0,0,0,0,5719,322,5397,5112,285,690866,72,11030,1661,14390,0,0,0,29184,211810
+GALVESTON,48167,0,0,Result of merge,0,0,3,150,14575,2326,12249,0,12249,Result of merge,116,245900,7380,77241,500,28098,0,8310,52890
+GILLESPIE,48171,0,0,Result of merge,0,0,0,43,44749,6878,37871,20240,17631,708023,269,174001,37820,161787,30,35,1039,18544,140475
+GOLIAD,48175,0,0,Result of merge,0,0,92,106,42018,6257,35761,14124,21637,485772,154,105484,2145,56755,0,635,0,1785,57686
+GONZALES,48177,0,0,Result of merge,0,0,2174,39,262666,33841,228825,17553,211272,716144,1099,608972,100044,301184,475,0,0,47646,637973
+GRAYSON,48181,0,983,Result of merge,0,0,2885,264,199546,48918,150628,59516,91112,605827,826,1315148,63715,724649,5920,525,0,76770,579893
+GRIMES,48185,0,0,Result of merge,0,0,10025,652,527115,71436,455679,397025,58654,576488,1913,991807,50038,1024575,0,0,0,2498,526530
+GUADALUPE,48187,0,0,Result of merge,0,0,2874,0,160851,28929,131922,67734,64188,480230,961,627948,48870,342433,305,0,0,27045,386504
+HAMILTON,48193,0,0,Result of merge,0,0,18,0,15048,2596,12452,6012,6440,534192,75,26160,1645,151550,0,0,0,120885,109622
+HARDEMAN,48197,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,1261087,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+HARDIN,48199,0,0,Result of merge,0,0,280,289,24806,3866,20940,2450,18490,594013,180,46880,2925,67900,0,0,0,0,38382
+HARRIS,48201,0,0,Result of merge,0,0,1064,24,151729,14016,137713,55871,81842,1123933,536,605732,44602,270757,5075,4150,6160,21070,284463
+HARRISON,48203,0,0,Result of merge,0,0,8165,60,211385,76187,135198,119409,15789,540666,381,863851,35672,878745,30,460,0,45841,214240
+HASKELL,48207,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,830429,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+HAYS,48209,0,0,Result of merge,0,0,1468,184,26920,7792,19128,2357,16771,448557,282,207897,5480,162577,1000,0,1065,17278,101929
+HENDERSON,48213,0,0,Result of merge,0,0,2967,20,171814,26240,145574,507,145067,623887,538,187080,8655,336551,75,0,190,12768,253687
+HIDALGO,48215,0,0,Result of merge,0,0,117,0,143575,1098,142477,36568,105909,1185016,75,74200,3950,50460,0,0,0,11525,139188
+HILL,48217,0,0,Result of merge,0,0,3407,25,119060,23296,95764,38401,57363,638296,611,1030420,56238,551662,275,0,450,49953,726366
+HOOD,48221,1,910,Result of merge,0,0,779,0,56439,9574,46865,14536,32329,380471,356,174100,8110,279701,0,0,0,74936,274942
+HOPKINS,48223,0,0,Result of merge,0,0,5417,619,235356,42371,192985,132157,60828,604110,1120,1037789,32369,874987,2923,500,2507,96038,568393
+HOUSTON,48225,0,0,Result of merge,0,0,920,0,54525,6746,47779,0,47779,783173,75,57180,6787,128651,0,0,360,7735,55101
+HUNT,48231,0,70,Result of merge,0,0,4272,187,235507,41065,194442,100920,93522,605810,1499,780140,104813,735109,375,0,28,77092,779394
+JACK,48237,1,0,Result of merge,0,0,2,6,2935,323,2612,2475,137,588091,11,9040,645,10155,50,500,0,1105,15925
+JACKSON,48239,0,0,Result of merge,0,0,595,0,74673,10816,63857,36736,27121,577646,84,152613,4140,82623,0,0,0,20833,78555
+JASPER,48241,0,0,Result of merge,0,0,1928,253,188424,23114,165310,164456,854,601766,411,245344,12490,273175,5,0,850,22590,125029
+JEFFERSON,48245,0,0,Result of merge,0,0,17,0,24703,1484,23219,575,22644,652450,77,61092,2978,34781,20,0,0,4931,99619
+JOHNSON,48251,0,0,Result of merge,0,0,1212,23,105971,18413,87558,48123,39435,438327,428,331054,38671,192716,485,140,0,40983,315204
+JONES,48253,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,696963,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+KARNES,48255,0,0,Result of merge,0,0,24,1,50389,3443,46946,42851,4095,484715,265,45620,2380,337161,0,300,0,12560,328776
+KAUFMAN,48257,0,0,Result of merge,0,0,1910,120,78714,14948,63766,1451,62315,592772,347,487055,10418,292533,1732,0,0,53292,281550
+KENDALL,48259,0,0,Result of merge,0,0,0,105,61148,3617,57531,5435,52096,378608,197,116960,18228,75766,0,120,55,11328,92465
+KERR,48265,0,0,Result of merge,0,0,7,189,44063,3712,40351,3383,36968,750052,130,99052,15567,74827,0,50,13927,9958,97204
+KIMBLE,48267,0,0,Result of merge,0,0,0,0,18,18,0,0,0,882344,4,180,10,2050,0,0,0,0,7700
+KINNEY,48271,0,0,Result of merge,0,0,0,600,24910,2610,22300,0,22300,1193773,28,57605,5000,26575,0,0,0,5030,95230
+KNOX,48275,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,864457,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+LAMAR,48277,0,25,Result of merge,0,0,6753,735,204415,43494,160921,144208,16713,695364,752,1058936,57153,821789,3045,16515,305,92425,473301
+LAMPASAS,48281,0,0,Result of merge,0,0,26,0,50830,3611,47219,434,46785,670970,90,62140,3787,61077,5,0,898,22170,103556
+LA SALLE,48283,0,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,948916,6,Not available,Not available,8828,0,0,0,3675,39600
+LAVACA,48285,0,0,Result of merge,0,0,3528,2742,308163,36987,271176,2764,268412,639185,905,1025101,34729,621966,1717,171,0,115490,692937
+LEON,48289,0,0,Result of merge,0,0,4897,664,231152,32265,198887,189309,9578,707436,702,370852,45591,527871,2040,0,80,30555,298541
+LIBERTY,48291,0,0,Result of merge,0,0,1881,10,116668,11279,105389,85868,19521,839648,356,319668,13663,241656,200,0,201,6244,176253
+LIMESTONE,48293,0,0,Result of merge,0,0,3414,140,275722,34846,240876,1299,239577,588388,483,1121390,2040,418720,240,0,0,0,420559
+LIVE OAK,48297,0,0,Result of merge,0,0,0,0,56504,4801,51703,23024,28679,704346,31,63839,875,38091,0,0,0,16724,310372
+LLANO,48299,0,0,Result of merge,0,0,7,45,34038,1624,32414,12933,19481,616891,95,42210,6223,31751,0,0,0,13153,106000
+MCCULLOCH,48307,0,0,Result of merge,0,0,0,10,3750,97,3653,305,3348,718188,10,2920,93,2922,0,0,360,1562,4835
+MCLENNAN,48309,0,30,Result of merge,0,0,8829,3,67820,36148,31672,15577,16095,669803,937,356734,9385,816205,650,1124,0,11005,475962
+MCMULLEN,48311,0,0,Result of merge,0,0,0,0,3383,173,3210,2210,1000,740617,7,4500,0,11395,0,0,0,10976,95860
+MADISON,48313,0,0,Result of merge,0,0,2729,137,174832,15166,159666,132309,27357,326486,314,206175,14674,266345,0,0,0,2960,190920
+MARION,48315,0,0,Result of merge,0,0,0,700,115763,27819,87944,85017,2927,280793,186,412591,0,126025,0,0,0,0,85117
+MASON,48319,0,0,Result of merge,0,0,0,27,19017,1131,17886,150,17736,623627,52,29530,5110,27795,0,210,0,14684,61830
+MATAGORDA,48321,0,0,Result of merge,0,0,1590,0,108364,16007,92357,54763,37594,751253,185,364817,32681,261521,30,700,0,27402,333483
+MAVERICK,48323,0,0,Result of merge,0,0,0,0,103975,1388,102587,0,102587,775185,39,44235,3045,26200,0,0,0,6402,162200
+MEDINA,48325,0,0,Result of merge,0,0,0,0,28319,5504,22815,0,22815,833527,262,118570,13830,82688,0,400,0,17514,326305
+MENARD,48327,0,0,Result of merge,0,0,0,0,8459,147,8312,700,7612,627607,19,15050,210,19985,0,0,1900,4800,61950
+MENORA,48327,0,0,Result of merge,0,0,0,0,Sum of missing values,Not available,Result of merge,Not available,Not available,627607,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+MILAM,48331,0,0,Result of merge,0,0,5143,13,146980,32644,114336,67372,46964,661011,715,505584,50961,553792,335,0,0,61748,398881
+MONTAGUE,48337,1,308,Result of merge,0,0,15,10,28827,2615,26212,25817,395,607976,109,63960,5856,63547,190,60,200,30744,95005
+MONTGOMERY,48339,0,0,Result of merge,0,0,3485,246,262584,35412,227172,191722,35450,768807,978,702328,16171,351943,0,0,230,34344,228761
+NACOGDOCHES,48347,0,16515,Result of merge,0,0,4531,0,401575,35646,365929,164477,201452,608870,658,499311,27886,558104,0,0,0,64852,291868
+NAVARRO,48349,0,0,Result of merge,0,0,4077,0,328807,47042,281765,97622,184143,700475,924,1078152,39187,965891,3200,0,0,0,654826
+NEWTON,48351,0,0,Result of merge,0,0,1001,0,99230,10580,88650,88623,27,627677,209,136255,9121,253100,0,0,0,490,98937
+NUECES,48355,0,0,Result of merge,0,0,0,0,634282,14367,619915,217200,402715,1526438,152,288149,7905,224539,0,0,0,177115,1063658
+ORANGE,48361,0,0,Result of merge,0,0,67,0,13057,984,12073,6248,5825,220423,47,28063,1294,18905,0,0,0,1950,33736
+PALO PINTO,48363,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,634385,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+PANOLA,48365,0,68,Result of merge,0,0,9367,3124,319084,61359,257725,256125,1600,580160,911,1031615,25827,1407760,587,0,120,117930,394025
+PARKER,48367,1,350,Result of merge,0,0,13,45,28418,5926,22492,16615,5877,575653,148,136475,17495,102070,35,5375,0,50,108973
+POLK,48373,0,0,Result of merge,0,0,4548,805,223919,30344,193575,189817,3758,546984,622,311426,46296,607993,30,190,472,40328,241631
+PRESIDIO,48377,0,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,13684296,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+RED RIVER,48387,0,175,Result of merge,0,0,0,76,418154,50964,367190,294087,73103,704780,573,909268,53436,763358,575,100,0,93680,392797
+REFUGIO,48391,0,0,Result of merge,0,0,0,9,138562,5400,133162,34896,98266,552167,176,135300,8980,136870,0,0,0,61442,592745
+ROBERTSON,48395,0,0,Result of merge,0,0,4833,555,113720,27207,86513,74960,11553,564157,197,742965,19203,293475,0,2870,0,1230,120335
+RUNNELS,48399,0,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,670648,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+RUSK,48401,0,22,Result of merge,0,0,12752,959,344164,78250,265914,255397,10517,683191,1541,562829,47748,1555718,1379,50,145,111898,389450
+SABINE,48403,0,0,Result of merge,0,0,1722,1430,143933,17653,126280,121734,4546,334848,282,136000,18836,267058,0,140,365,33186,123892
+SAN AUGUSTINE,48405,0,0,Result of merge,0,0,2598,43,228351,19752,208599,6167,202432,387574,461,131363,23298,328886,230,0,0,33551,173804
+SAN PATRICIO,48409,0,0,Result of merge,0,0,0,0,52092,2417,49675,15390,34285,433068,51,43800,3770,49375,0,0,0,24475,189450
+SAN SABA,48411,0,0,Result of merge,0,0,7,70,31558,2377,29181,3393,25788,758297,97,124561,1827,64789,200,280,4482,23992,114045
+SHACKELFORD,48417,1,0,Result of merge,0,0,0,0,480,320,160,0,160,599288,3,480,0,200,0,0,0,0,4550
+SHELBY,48419,0,0,Result of merge,0,0,4090,20,194308,31649,162659,0,162659,544575,820,178553,37269,440358,0,0,0,47602,240816
+SMITH,48423,0,22017,Result of merge,0,0,9322,4352,315545,75466,240079,239442,637,659357,861,1382113,31105,1256126,135,0,0,112514,421896
+STARR,48427,0,0,Result of merge,0,0,0,0,8477,200,8277,500,7777,1601970,1,1375,75,1450,0,0,0,0,18320
+STEPHENS/BUCHANAN,48429,1,0,Result of merge,0,0,0,0,2175,105,2070,1170,900,590894,24,2850,300,43570,0,0,0,20274,147160
+TARRANT,48439,0,50,Result of merge,25,2,728,10,169254,22387,146867,86435,60432,594218,534,496047,60682,228837,80,20,0,40209,350637
+TAYLOR,48441,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,706026,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+THROCKMORTON,48447,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,570499,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+TITUS,48449,0,153,Result of merge,0,0,7039,399,350548,53012,297536,217123,80413,623688,1043,1133072,41827,899135,269,0,0,119016,467387
+,48451,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,15408819,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+TRAVIS,48453,0,50,Result of merge,0,0,16769,67,192213,83279,108934,27846,81088,609182,1256,1897960,49483,1121946,413,2780,1180,16878,611579
+TRINITY,48455,0,0,Result of merge,0,0,2205,2761,82697,16151,66546,63414,3132,726976,421,172214,24764,323020,0,0,0,41552,175400
+TYLER,48457,0,0,Result of merge,0,0,2236,8130,192500,17040,175460,139670,35790,611935,704,250806,13933,372175,0,0,0,47074,192287
+UPSHUR,48459,0,0,Result of merge,0,0,7362,187,292725,63804,228921,120733,108188,577890,1389,590238,37238,928687,289,0,20,115601,370570
+UVALDE,48463,0,0,Result of merge,0,0,2,465,10052,1205,8847,0,8847,1011314,29,35410,3635,42850,0,0,0,17750,129900
+VAN ZANDT,48467,0,100,Result of merge,0,0,2926,60,151417,22195,129222,119232,9990,556948,590,502267,16507,494357,15,0,125,75389,238577
+VICTORIA,48469,0,0,Result of merge,0,0,205,200,99011,11247,87764,22255,65509,507791,347,240743,16686,182191,480,215,2532,62140,320242
+WALKER,48471,0,0,Result of merge,0,0,5524,59,143117,34224,108893,85763,23130,640212,533,311566,24171,603808,0,718,50,20166,232060
+WASHINGTON,48477,0,0,Result of merge,0,0,22452,130,317568,122833,194735,141185,53550,544490,1901,3765786,122830,1872244,5125,125,2145,66658,879871
+WEBB,48479,0,0,Result of merge,Not available,Not available,0,0,11820,6120,5700,2685,3015,984935,40,17640,2258,165178,0,0,0,0,131599
+WHARTON,48481,0,0,Result of merge,Not available,Not available,1217,0,81683,22126,59557,40997,18560,748961,70,332345,28860,162521,0,0,0,16841,73094
+WICHITA,48485,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,422767,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+WILBARGER,48487,1,Not available,Result of merge,Not available,Not available,Not available,Not available,Sum of missing values,Not available,Result of merge,Not available,Not available,646108,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available,Not available
+WILLIAMSON,48491,0,700,Result of merge,Not available,Not available,913,38,174294,18329,155965,81128,74837,719101,433,389239,28767,217321,0,305,15,19340,341794
+WILSON,48493,0,0,Result of merge,0,0,358,165,59411,10907,48504,27850,20654,511367,290,153961,3388,85048,0,0,0,17747,189669
+WISE,48497,1,225,Result of merge,0,0,21,20,25333,3537,21796,13211,8585,588011,82,70420,5975,45250,169,10,0,24325,91176
+WOOD,48499,0,7,Result of merge,0,0,3919,86,163713,30053,133660,121698,11962,529812,756,510834,17445,606210,60,0,0,63488,284006
+YOUNG,48503,1,0,Result of merge,0,0,0,0,939,199,740,590,150,557791,17,1200,0,8840,0,0,0,12315,49100
+,48504,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,30989036,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+ZAPATA,48505,0,0,Result of merge,0,0,0,0,347519,10442,337077,142362,194715,844195,126,106939,437,10268,0,0,0,700,108733
+ZAVALA,48507,0,0,Result of merge,0,0,0,0,1552,108,1444,150,1294,834790,6,2600,455,2550,0,0,0,325,13800
+ENCINAL,48511,0,Result of merge,Result of merge,0,0,Result of merge,0,4360,2660,1700,850,850,1252737,13,5510,160,19030,0,0,0,0,16305
+,56001,1,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,6982518,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,56007,1,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,13331794,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,56021,1,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,10920123,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,56037,1,0,Result of merge,Not published for this unit,Not published for this unit,0,4,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,22318060,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,56041,0,0,Result of merge,Not published for this unit,Not published for this unit,0,0,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,8992993,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57001,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,457340,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57003,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,2095887,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57005,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,747094,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57007,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1125993,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57009,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,278994,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57011,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,1238757,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57013,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,422672,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57015,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,405298,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57017,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,603147,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57019,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,778241,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57021,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,6106047,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57023,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,781040,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57025,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,315859,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57027,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,340476,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
+,57999,1,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Sum of missing values,Result of merge,Result of merge,Result of merge,Result of merge,79179232,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge,Result of merge
